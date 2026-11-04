@@ -1,0 +1,9 @@
+/target/
+/fuzz/target/
+/fuzz/artifacts/
+/fuzz/corpus/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
